@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\bin\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\bin\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\bin\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\bin\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\bin\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 2. Point in Rectangle\obj\Debug\netcoreapp2.1\Problem 2. Point in Rectangle.pdb

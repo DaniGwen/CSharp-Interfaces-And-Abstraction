@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\bin\Debug\netcoreapp2.1\Problem 7. Food Shortage.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\bin\Debug\netcoreapp2.1\Problem 7. Food Shortage.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\bin\Debug\netcoreapp2.1\Problem 7. Food Shortage.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\bin\Debug\netcoreapp2.1\Problem 7. Food Shortage.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\bin\Debug\netcoreapp2.1\Problem 7. Food Shortage.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 7. Food Shortage\obj\Debug\netcoreapp2.1\Problem 7. Food Shortage.pdb

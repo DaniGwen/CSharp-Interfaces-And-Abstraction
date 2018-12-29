@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\bin\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\bin\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\bin\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\bin\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\bin\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 3. Student System\obj\Debug\netcoreapp2.1\Problem 4. Hotel Reservation.pdb

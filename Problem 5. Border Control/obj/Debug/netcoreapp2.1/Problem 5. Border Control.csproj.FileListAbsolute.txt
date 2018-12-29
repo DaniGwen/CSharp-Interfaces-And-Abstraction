@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\bin\Debug\netcoreapp2.1\Problem 5. Border Control.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\bin\Debug\netcoreapp2.1\Problem 5. Border Control.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\bin\Debug\netcoreapp2.1\Problem 5. Border Control.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\bin\Debug\netcoreapp2.1\Problem 5. Border Control.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\bin\Debug\netcoreapp2.1\Problem 5. Border Control.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 5. Border Control\obj\Debug\netcoreapp2.1\Problem 5. Border Control.pdb

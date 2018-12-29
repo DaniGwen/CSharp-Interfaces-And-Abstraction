@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\bin\Debug\netcoreapp2.1\Problem 4. Telephony.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\bin\Debug\netcoreapp2.1\Problem 4. Telephony.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\bin\Debug\netcoreapp2.1\Problem 4. Telephony.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\bin\Debug\netcoreapp2.1\Problem 4. Telephony.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\bin\Debug\netcoreapp2.1\Problem 4. Telephony.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 4. Telephony\obj\Debug\netcoreapp2.1\Problem 4. Telephony.pdb

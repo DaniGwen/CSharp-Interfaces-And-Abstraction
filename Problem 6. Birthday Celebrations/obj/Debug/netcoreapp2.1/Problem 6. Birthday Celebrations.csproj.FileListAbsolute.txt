@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\bin\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\bin\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\bin\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\bin\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\bin\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 6. Birthday Celebrations\obj\Debug\netcoreapp2.1\Problem 6. Birthday Celebrations.pdb
