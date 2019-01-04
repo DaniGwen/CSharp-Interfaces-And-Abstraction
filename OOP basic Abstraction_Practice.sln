@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 5. Border Control",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6. Birthday Celebrations", "Problem 6. Birthday Celebrations\Problem 6. Birthday Celebrations.csproj", "{1CE492E7-0FAC-425C-8C29-3F5A6B745B68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. Food Shortage", "Problem 7. Food Shortage\Problem 7. Food Shortage.csproj", "{B49C500F-5E2A-45D4-A0FE-AD6960F02A2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 7. Food Shortage", "Problem 7. Food Shortage\Problem 7. Food Shortage.csproj", "{B49C500F-5E2A-45D4-A0FE-AD6960F02A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 8. Military Elite", "Problem 8. Military Elite\Problem 8. Military Elite.csproj", "{5E5F39DC-4A84-48D1-9742-FABC61BC01EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{B49C500F-5E2A-45D4-A0FE-AD6960F02A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B49C500F-5E2A-45D4-A0FE-AD6960F02A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B49C500F-5E2A-45D4-A0FE-AD6960F02A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5F39DC-4A84-48D1-9742-FABC61BC01EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5F39DC-4A84-48D1-9742-FABC61BC01EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5F39DC-4A84-48D1-9742-FABC61BC01EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5F39DC-4A84-48D1-9742-FABC61BC01EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
