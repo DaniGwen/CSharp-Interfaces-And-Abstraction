@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\bin\Debug\netcoreapp2.1\Problem 8. Military Elite.deps.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\bin\Debug\netcoreapp2.1\Problem 8. Military Elite.runtimeconfig.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\bin\Debug\netcoreapp2.1\Problem 8. Military Elite.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\bin\Debug\netcoreapp2.1\Problem 8. Military Elite.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\bin\Debug\netcoreapp2.1\Problem 8. Military Elite.pdb
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.dll
+C:\Users\user\Source\Repos\Problem 1. Rhombus of Stars\Problem 8. Military Elite\obj\Debug\netcoreapp2.1\Problem 8. Military Elite.pdb
